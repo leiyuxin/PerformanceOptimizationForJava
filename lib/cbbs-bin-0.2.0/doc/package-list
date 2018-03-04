@@ -1,0 +1,13 @@
+org.amino
+org.amino.alg.graph
+org.amino.alg.parallelprefix
+org.amino.alg.scan
+org.amino.alg.sort
+org.amino.ds
+org.amino.ds.graph
+org.amino.ds.lockfree
+org.amino.ds.tree
+org.amino.mcas
+org.amino.pattern.internal
+org.amino.scheduler.internal
+org.amino.utility

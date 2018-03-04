@@ -1,0 +1,24 @@
+                   Amino --- Concurrent Building Blocks
+
+  Release: 0.2.0
+
+  What's Here?
+  ---------------
+
+  Amino project provides a set of concurrent building blocks (Java & C/C++)
+  that can be used to develop parallel/multi-threaded applications.
+
+  Components are grouped into 4 categories:
+      1.Data Structures
+      2.Parallel Patterns
+      3.Parallel functions
+      4.Atomics and STM
+
+
+  System Requirements
+  -------------------
+
+  * Java 1.5.x or higher
+
+
+    See http://sourceforge.net/projects/amino-cbbs/ for complete documentation.
